@@ -5,35 +5,35 @@ SIGNIFICANCE OF GOLD TRADE ON BRICS VS OTHER NATIONS
 
 [1) Abstract:\
 [2) Introduction:\
-    [2.1) What is BRICS?\
-    [2.2) Why are BRICS nations formed?\
-    [2.3) What is BRICS currency?\
-    [2.4) Impact on US Dollars by BRICS Currency\
+&emsp;[2.1) What is BRICS?\
+&emsp;[2.2) Why are BRICS nations formed?\
+&emsp;[2.3) What is BRICS currency?\
+&emsp;[2.4) Impact on US Dollars by BRICS Currency\
 [3) Methods:\
-    [3.1) Data Preprocessing:\
-        [3.1.2) Data Analysis:\
-        [3.1.3) Data Transformation:\
-        [3.1.4) Data Mean Substitution:\
-        [3.1.5) Data Outliers Handling:\
-        [3.1.6) Data Validation:\
-        [3.1.7) Data Readiness:\
-    [3.2) Other Data Sources:\
+&emsp;[3.1) Data Preprocessing:\
+&emsp;&emsp;[3.1.2) Data Analysis:\
+&emsp;&emsp;[3.1.3) Data Transformation:\
+&emsp;&emsp;[3.1.4) Data Mean Substitution:\
+&emsp;&emsp;[3.1.5) Data Outliers Handling:\
+&emsp;&emsp;[3.1.6) Data Validation:\
+&emsp;&emsp;[3.1.7) Data Readiness:\
+&emsp;[3.2) Other Data Sources:\
 [4) Exploratory Analysis:\
-    [4.1) Trade Value between countries for each Quartiles:\
-    [4.2) Net Weight between countries for each Quartiles:\
-    [4.3) Analysis on Gold Trade Value:\
-    [4.4) Analysis on Gold Purchase Quantity:\
-        [4.4.1) Why UAE Stopped purchasing Gold in 2021?\
-        [4.4.2) Why Canada Started buying Gold in 2019?\
-        [4.4.3) Why Switzerland bought more gold from Kenya than Egypt?\
-    [4.5) Why South Africa has lesser Partners when compared to Others?\
-    [4.6) Why some countries pay less price than world bank price?\
-    [4.7) Why UAE stopped buying gold by Egypt and starts to buy from other countries?\
-    [4.8) Comparative Analysis of South Africa's Gold Imports: Kenya vs Other Countries\
+&emsp;[4.1) Trade Value between countries for each Quartiles:\
+&emsp;[4.2) Net Weight between countries for each Quartiles:\
+&emsp;[4.3) Analysis on Gold Trade Value:\
+&emsp;[4.4) Analysis on Gold Purchase Quantity:\
+&emsp;&emsp;[4.4.1) Why UAE Stopped purchasing Gold in 2021?\
+&emsp;&emsp;[4.4.2) Why Canada Started buying Gold in 2019?\
+&emsp;&emsp;[4.4.3) Why Switzerland bought more gold from Kenya than Egypt?\
+&emsp;[4.5) Why South Africa has lesser Partners when compared to Others?\
+&emsp;[4.6) Why some countries pay less price than world bank price?\
+&emsp;[4.7) Why UAE stopped buying gold by Egypt and starts to buy from other countries?\
+&emsp;[4.8) Comparative Analysis of South Africa's Gold Imports: Kenya vs Other Countries\
 [5) Gold Purchase Forecast BRICS VS Other Countries\
 [6) Conclusion\
 [7) References\
-[8) Appendix\
+[8) Appendix
 
 # 1) Abstract:
 
