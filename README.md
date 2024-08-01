@@ -3,90 +3,37 @@ SIGNIFICANCE OF GOLD TRADE ON BRICS VS OTHER NATIONS
 
 # Table of Contents {#table-of-contents .TOC-Heading}
 
-[1) Abstract: [3](#abstract)](#abstract)
-
-[2) Introduction: [3](#introduction)](#introduction)
-
-[2.1) What is BRICS? [3](#what-is-brics)](#what-is-brics)
-
-[2.2) Why are BRICS nations formed?
-[4](#why-are-brics-nations-formed)](#why-are-brics-nations-formed)
-
-[2.3) What is BRICS currency?
-[4](#what-is-brics-currency)](#what-is-brics-currency)
-
-[2.4) Impact on US Dollars by BRICS Currency
-[4](#impact-on-us-dollars-by-brics-currency)](#impact-on-us-dollars-by-brics-currency)
-
-[3) Methods: [5](#methods)](#methods)
-
-[3.1) Data Preprocessing: [5](#data-preprocessing)](#data-preprocessing)
-
-[3.1.1) Data Availability: [5](#data-availability)](#data-availability)
-
-[3.1.2) Data Analysis: [5](#data-analysis)](#data-analysis)
-
-[3.1.3) Data Transformation:
-[5](#data-transformation)](#data-transformation)
-
-[3.1.4) Data Mean Substitution:
-[6](#data-mean-substitution)](#data-mean-substitution)
-
-[3.1.5) Data Outliers Handling:
-[6](#data-outliers-handling)](#data-outliers-handling)
-
-[3.1.6) Data Validation: [6](#data-validation)](#data-validation)
-
-[3.1.7) Data Readiness: [6](#data-readiness)](#data-readiness)
-
-[3.2) Other Data Sources: [7](#other-data-sources)](#other-data-sources)
-
+[1) Abstract:
+[2) Introduction:
+    [2.1) What is BRICS?
+    [2.2) Why are BRICS nations formed?
+    [2.3) What is BRICS currency?
+    [2.4) Impact on US Dollars by BRICS Currency
+[3) Methods:
+    [3.1) Data Preprocessing:
+        [3.1.2) Data Analysis:
+        [3.1.3) Data Transformation:
+        [3.1.4) Data Mean Substitution:
+        [3.1.5) Data Outliers Handling:
+        [3.1.6) Data Validation:
+        [3.1.7) Data Readiness:
+    [3.2) Other Data Sources:
 [4) Exploratory Analysis:
-[7](#exploratory-analysis)](#exploratory-analysis)
-
-[4.1) Trade Value between countries for each Quartiles:
-[7](#trade-value-between-countries-for-each-quartiles)](#trade-value-between-countries-for-each-quartiles)
-
-[4.2) Net Weight between countries for each Quartiles:
-[8](#net-weight-between-countries-for-each-quartiles)](#net-weight-between-countries-for-each-quartiles)
-
-[4.3) Analysis on Gold Trade Value:
-[9](#analysis-on-gold-trade-value)](#analysis-on-gold-trade-value)
-
-[4.4) Analysis on Gold Purchase Quantity:
-[10](#analysis-on-gold-purchase-quantity)](#analysis-on-gold-purchase-quantity)
-
-[4.4.1) Why UAE Stopped purchasing Gold in 2021?
-[11](#why-uae-stopped-purchasing-gold-in-2021)](#why-uae-stopped-purchasing-gold-in-2021)
-
-[4.4.2) Why Canada Started buying Gold in 2019?
-[11](#why-canada-started-buying-gold-in-2019)](#why-canada-started-buying-gold-in-2019)
-
-[4.4.3) Why Switzerland bought more gold from Kenya than Egypt?
-[12](#why-switzerland-bought-more-gold-from-kenya-than-egypt)](#why-switzerland-bought-more-gold-from-kenya-than-egypt)
-
-[4.5) Why South Africa has lesser Partners when compared to Others?
-[14](#why-south-africa-has-lesser-partners-when-compared-to-others)](#why-south-africa-has-lesser-partners-when-compared-to-others)
-
-[4.6) Why some countries pay less price than world bank price?
-[15](#why-some-countries-pay-less-price-than-world-bank-price)](#why-some-countries-pay-less-price-than-world-bank-price)
-
-[4.7) Why UAE stopped buying gold by Egypt and starts to buy from other
-countries?
-[16](#why-uae-stopped-buying-gold-by-egypt-and-starts-to-buy-from-other-countries)](#why-uae-stopped-buying-gold-by-egypt-and-starts-to-buy-from-other-countries)
-
-[4.8) Comparative Analysis of South Africa's Gold Imports: Kenya vs
-Other Countries
-[17](#comparative-analysis-of-south-africas-gold-imports-kenya-vs-other-countries)](#comparative-analysis-of-south-africas-gold-imports-kenya-vs-other-countries)
-
+    [4.1) Trade Value between countries for each Quartiles:
+    [4.2) Net Weight between countries for each Quartiles:
+    [4.3) Analysis on Gold Trade Value:
+    [4.4) Analysis on Gold Purchase Quantity:
+        [4.4.1) Why UAE Stopped purchasing Gold in 2021?
+        [4.4.2) Why Canada Started buying Gold in 2019?
+        [4.4.3) Why Switzerland bought more gold from Kenya than Egypt?
+    [4.5) Why South Africa has lesser Partners when compared to Others?
+    [4.6) Why some countries pay less price than world bank price?
+    [4.7) Why UAE stopped buying gold by Egypt and starts to buy from other countries?
+    [4.8) Comparative Analysis of South Africa's Gold Imports: Kenya vs Other Countries
 [5) Gold Purchase Forecast BRICS VS Other Countries
-[18](#gold-purchase-forecast-brics-vs-other-countries)](#gold-purchase-forecast-brics-vs-other-countries)
-
-[6) Conclusion [19](#conclusion)](#conclusion)
-
-[7) References: [20](#references)](#references)
-
-[8) Appendix: [21](#appendix)](#appendix)
+[6) Conclusion
+[7) References
+[8) Appendix
 
 # 1) Abstract:
 
