@@ -759,44 +759,44 @@ economic stability.
 # 8) Appendix:
 
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Document Name**  **Details**                **Reference                                                                              **Reference Links**
+  **Document Name**  **Details**                **Reference                                   **Reference Links**
                                                  Number**    
   ------------------ ------------------------- ------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-       Mapping       This document contains          1                    https://docs.google.com/spreadsheets/d/1P0ebDDR3_nQYbMlxrfiNk52cenHLSGTq/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true
+       Mapping       This document contains          1    https://docs.google.com/spreadsheets/d/1P0ebDDR3_nQYbMlxrfiNk52cenHLSGTq/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true
     Document.xlsx    the data analysed as part               
                      of assumptions and                      
                      analysis performed                      
 
-         Data        This document includes          2                         https://docs.google.com/spreadsheets/d/1BvPr6GhlXTH28ZcxHXw5sdOzO09X9Ics/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true
+         Data        This document includes          2    https://docs.google.com/spreadsheets/d/1BvPr6GhlXTH28ZcxHXw5sdOzO09X9Ics/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true
     Validations.xlsx the data with validation                
                      steps and rejections                    
 
-    SourceCode.ipynb This file contains the          3                                                                                           \-
+    SourceCode.ipynb This file contains the          3                                       \-
                      Python source code of                   
                      data extraction, data                   
                      cleansing, data loading                 
                      to tables, data rejection               
                      processes, etc                          
 
-       Database      This file contains the          4                                                                                           \-
+       Database      This file contains the          4                                       \-
       Tables.sql     queries used for creating               
                      tables that are part of                 
                      this research                           
 
-      Brics.xlsx     This document contains          5                         https://docs.google.com/spreadsheets/d/1Hno_HFEBlxc7BYLMc31G0KsxnToYO0EN/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true
+      Brics.xlsx     This document contains          5    https://docs.google.com/spreadsheets/d/1Hno_HFEBlxc7BYLMc31G0KsxnToYO0EN/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true
                      the data gathered from                  
                      Wikipedia and converted                 
                      to required format to be                
                      used for this research                  
 
-    Gold Price.xlsx  This document contains          6     https://docs.google.com/spreadsheets/d/1ggdeVNNf-kWhKJaMk9kJikMMip9_yEoP/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true
+    Gold Price.xlsx  This document contains          6    https://docs.google.com/spreadsheets/d/1ggdeVNNf-kWhKJaMk9kJikMMip9_yEoP/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true
                      the data gathered from                  
                      world bank and converted                
                      from oz to kilograms to                 
                      be used as part of this                 
                      research                                
 
-    GoldTrade.twbx   This file contains the          7             https://public.tableau.com/views/SignificanceofGoldTradeonBRICSvsOtherCountries/PartnersList?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+    GoldTrade.twbx   This file contains the          7    https://public.tableau.com/views/SignificanceofGoldTradeonBRICSvsOtherCountries/PartnersList?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
                      tableau visualisation                   
                      charts that are built as                
                      part of this research                   
