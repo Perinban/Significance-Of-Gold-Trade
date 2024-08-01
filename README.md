@@ -1,35 +1,5 @@
-> ![](./media/image1.jpeg){width="3.9791666666666665in"
-> height="1.15625in"}
-
 SIGNIFICANCE OF GOLD TRADE ON BRICS VS OTHER NATIONS
 
-Submitted to:
-
--   Ebby George Varghese
-
--   Talha Ali Khan
-
-Presented By:
-
-  ----------------------------------------------------------------------------
-       **Team Member**       **Student        **Role**        **Year/Period of
-                               ID**                               Study**
-  ------------------------- ----------- --------------------- ----------------
-   Abhishek Pradeep Nayana   80226882    Deveoper/Researcher     Mar\' 2024
-
-       Chethan Allidi         60130302   Deveoper/Researcher     Mar\' 2024
-
-   Maria Camilia Manrique     87198270     Co Team Leader        Mar\' 2024
-           Sanchez                                            
-
-   Perinban Parameshwaran    95991143        Team Leader         Mar\' 2024
-
-  Rupesh Mukeshkumar Thakur  32362985    Deveoper/Researcher    Mar\'\'2023
-
-          Yidi Zhao           26281207   Deveoper/Researcher     Mar\' 2024
-
-  Zithvik Mahadev Penumadu   74049484    Deveoper/Researcher     Mar\' 2023
-  ----------------------------------------------------------------------------
 
 # Table of Contents {#table-of-contents .TOC-Heading}
 
@@ -117,10 +87,6 @@ Other Countries
 [7) References: [20](#references)](#references)
 
 [8) Appendix: [21](#appendix)](#appendix)
-
-# 
-
-# 
 
 # 1) Abstract:
 
@@ -846,7 +812,7 @@ economic stability.
 # 8) Appendix:
 
   --------------------------------------------------------------------------
-  **Document Name**  **Details**                                **Reference
+    **Document Name* **Details**                                **Reference
                                                                  Number**
   ------------------ ----------------------------------------- -------------
        Mapping       This document contains the data analysed        1
@@ -854,9 +820,9 @@ economic stability.
                      performed                                 
 
          Data        This document includes the data with            2
-   Validations.xlsx  validation steps and rejections           
+    Validations.xlsx validation steps and rejections           
 
-  Source Code.ipynb  This file contains the Python source code       3
+    Source Code.ipynb This file contains the Python source code       3
                      of data extraction, data cleansing, data  
                      loading to tables, data rejection         
                      processes, etc                            
@@ -869,7 +835,7 @@ economic stability.
                      from Wikipedia and converted to required  
                      format to be used for this research       
 
-   Gold Price.xlsx   This document contains the data gathered        6
+     Gold Price.xlsx This document contains the data gathered        6
                      from world bank and converted from oz to  
                      kilograms to be used as part of this      
                      research                                  
