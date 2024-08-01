@@ -1,7 +1,6 @@
-SIGNIFICANCE OF GOLD TRADE ON BRICS VS OTHER NATIONS
+<h1> SIGNIFICANCE OF GOLD TRADE ON BRICS VS OTHER NATIONS </h1>
 
-
-# Table of Contents {#table-of-contents .TOC-Heading}\
+<h3> # Table of Contents </h3>
 
 [1) Abstract:\
 [2) Introduction:\
