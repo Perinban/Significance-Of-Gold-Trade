@@ -1,38 +1,55 @@
 <h1> SIGNIFICANCE OF GOLD TRADE ON BRICS VS OTHER NATIONS </h1>
 
-<h3> # Table of Contents </h3>
+<h3>Data Sources</h3>
 
-[1) Abstract:\
-[2) Introduction:\
-&emsp;[2.1) What is BRICS?\
-&emsp;[2.2) Why are BRICS nations formed?\
-&emsp;[2.3) What is BRICS currency?\
-&emsp;[2.4) Impact on US Dollars by BRICS Currency\
-[3) Methods:\
-&emsp;[3.1) Data Preprocessing:\
-&emsp;&emsp;[3.1.2) Data Analysis:\
-&emsp;&emsp;[3.1.3) Data Transformation:\
-&emsp;&emsp;[3.1.4) Data Mean Substitution:\
-&emsp;&emsp;[3.1.5) Data Outliers Handling:\
-&emsp;&emsp;[3.1.6) Data Validation:\
-&emsp;&emsp;[3.1.7) Data Readiness:\
-&emsp;[3.2) Other Data Sources:\
-[4) Exploratory Analysis:\
-&emsp;[4.1) Trade Value between countries for each Quartiles:\
-&emsp;[4.2) Net Weight between countries for each Quartiles:\
-&emsp;[4.3) Analysis on Gold Trade Value:\
-&emsp;[4.4) Analysis on Gold Purchase Quantity:\
-&emsp;&emsp;[4.4.1) Why UAE Stopped purchasing Gold in 2021?\
-&emsp;&emsp;[4.4.2) Why Canada Started buying Gold in 2019?\
-&emsp;&emsp;[4.4.3) Why Switzerland bought more gold from Kenya than Egypt?\
-&emsp;[4.5) Why South Africa has lesser Partners when compared to Others?\
-&emsp;[4.6) Why some countries pay less price than world bank price?\
-&emsp;[4.7) Why UAE stopped buying gold by Egypt and starts to buy from other countries?\
-&emsp;[4.8) Comparative Analysis of South Africa's Gold Imports: Kenya vs Other Countries\
-[5) Gold Purchase Forecast BRICS VS Other Countries\
-[6) Conclusion\
-[7) References\
-[8) Appendix
+<table border="0" cellpadding="0" cellspacing="0" width="864" style="">
+  <thead>
+    <tr height="45" style="height: 34pt;">
+      <th>Document Name</th>
+      <th>Details</th>
+      <th>Reference Link</th>
+    </tr>
+  </thead><colgroup><col width="297" style="width: 223pt;"><col width="328" style="width: 246pt;"><col width="239" style="width: 179pt;"></colgroup>
+  <tbody>
+    <tr height="45" style="height: 34pt;">
+      <td height="45" class="xl65" width="297" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: none; text-align: center; height: 34pt; width: 223pt;">Mapping Document.xlsx</td>
+      <td class="xl65" width="328" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 246pt;">This document contains the data analyzed as part of assumptions and analysis performed</td>
+      <td class="xl65" width="239" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 179pt;"><a href="https://docs.google.com/spreadsheets/d/1P0ebDDR3_nQYbMlxrfiNk52cenHLSGTq/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPrK-y05cfo5GM1Pg55QJLLirq54AByCaozg&s" width="50" height="30"/></a></td>
+    </tr>
+    <tr height="45" style="height: 34pt;">
+      <td height="45" class="xl65" width="297" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: none; text-align: center; height: 34pt; width: 223pt;">Data Validations.xlsx</td>
+      <td class="xl65" width="328" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 246pt;">This document includes the data with validation steps and rejections</td>
+      <td class="xl65" width="239" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 179pt;"><a href="https://docs.google.com/spreadsheets/d/1BvPr6GhlXTH28ZcxHXw5sdOzO09X9Ics/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPrK-y05cfo5GM1Pg55QJLLirq54AByCaozg&s" width="50" height="30"/></a></td>
+    </tr>
+    <tr height="68" style="height: 51pt;">
+      <td height="68" class="xl65" width="297" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: none; text-align: center; height: 51pt; width: 223pt;">Source Code.ipynb</td>
+      <td class="xl65" width="328" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 246pt;">This file contains the Python source code of data extraction, data cleansing, data loading to tables, data rejection processes, etc</td>
+      <td class="xl65" width="239" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 179pt;">-</td>
+    </tr>
+    <tr height="45" style="height: 34pt;">
+      <td height="45" class="xl65" width="297" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: none; text-align: center; height: 34pt; width: 223pt;">Database Tables.sql</td>
+      <td class="xl65" width="328" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 246pt;">This file contains the queries used for creating tables that are part of this research</td>
+      <td class="xl65" width="239" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 179pt;">-</td>
+    </tr>
+    <tr height="68" style="height: 51pt;">
+      <td height="68" class="xl65" width="297" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: none; text-align: center; height: 51pt; width: 223pt;">Brics.xlsx</td>
+      <td class="xl65" width="328" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 246pt;">This document contains the data gathered from wikipedia and converted to required format to be used for this research</td>
+      <td class="xl65" width="239" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 179pt;"><a href="https://docs.google.com/spreadsheets/d/1Hno_HFEBlxc7BYLMc31G0KsxnToYO0EN/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPrK-y05cfo5GM1Pg55QJLLirq54AByCaozg&s" width="50" height="30"/></a></td>
+    </tr>
+    <tr height="68" style="height: 51pt;">
+      <td height="68" class="xl65" width="297" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: none; text-align: center; height: 51pt; width: 223pt;">Gold Price.xlsx</td>
+      <td class="xl65" width="328" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 246pt;">This document contains the data gathered from world bank and converted from oz to kilograms to be used as part of this research</td>
+      <td class="xl65" width="239" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 179pt;"><a href="https://docs.google.com/spreadsheets/d/1ggdeVNNf-kWhKJaMk9kJikMMip9_yEoP/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPrK-y05cfo5GM1Pg55QJLLirq54AByCaozg&s" width="50" height="30"/></a></td>
+    </tr>
+    <tr height="45" style="height: 34pt;">
+      <td height="45" class="xl65" width="297" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: none; text-align: center; height: 34pt; width: 223pt;">GoldTrade.twbx</td>
+      <td class="xl65" width="328" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 246pt;">This file contains tableau visualisation charts that are built as part of this research</td>
+      <td class="xl65" width="239" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 0.5pt 0.5pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 179pt;"><a href="https://public.tableau.com/views/SignificanceofGoldTradeonBRICSvsOtherCountries/PartnersList?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"><img src="https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0feafea9.png" width="60" height="40"/></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
 
 # 1) Abstract:
 
@@ -754,49 +771,3 @@ economic stability.
 19) <https://www.the-star.co.ke/news/2023-01-11-where-kenya-south-africa-should-start-to-address-trade-barriers/>
 
 20) <https://www.kitco.com/opinion/2023-12-28/future-trajectory-gold-prices-2024-2026-navigating-economic-and-geopolitical>
-
-# 8) Appendix:
-
-   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Document Name**  **Details**                **Reference                                   **Reference Links**
-                                                 Number**    
-  ------------------ ------------------------- ------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-       Mapping       This document contains          1    https://docs.google.com/spreadsheets/d/1P0ebDDR3_nQYbMlxrfiNk52cenHLSGTq/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true
-    Document.xlsx    the data analysed as part               
-                     of assumptions and                      
-                     analysis performed                      
-
-         Data        This document includes          2    https://docs.google.com/spreadsheets/d/1BvPr6GhlXTH28ZcxHXw5sdOzO09X9Ics/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true
-    Validations.xlsx the data with validation                
-                     steps and rejections                    
-
-    SourceCode.ipynb This file contains the          3                                       \-
-                     Python source code of                   
-                     data extraction, data                   
-                     cleansing, data loading                 
-                     to tables, data rejection               
-                     processes, etc                          
-
-       Database      This file contains the          4                                       \-
-      Tables.sql     queries used for creating               
-                     tables that are part of                 
-                     this research                           
-
-      Brics.xlsx     This document contains          5    https://docs.google.com/spreadsheets/d/1Hno_HFEBlxc7BYLMc31G0KsxnToYO0EN/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true
-                     the data gathered from                  
-                     Wikipedia and converted                 
-                     to required format to be                
-                     used for this research                  
-
-    Gold Price.xlsx  This document contains          6    https://docs.google.com/spreadsheets/d/1ggdeVNNf-kWhKJaMk9kJikMMip9_yEoP/edit?usp=sharing&ouid=114840663789662506255&rtpof=true&sd=true
-                     the data gathered from                  
-                     world bank and converted                
-                     from oz to kilograms to                 
-                     be used as part of this                 
-                     research                                
-
-    GoldTrade.twbx   This file contains the          7    https://public.tableau.com/views/SignificanceofGoldTradeonBRICSvsOtherCountries/PartnersList?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-                     tableau visualisation                   
-                     charts that are built as                
-                     part of this research                   
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
